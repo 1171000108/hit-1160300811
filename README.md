@@ -4,6 +4,8 @@
 
 ---
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 - *README*: Choose when creating a new repository
     - [x] **Initialize this repository with a README**
 
